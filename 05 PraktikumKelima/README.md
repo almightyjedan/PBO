@@ -16,14 +16,17 @@ Fakultas Teknik Universitas Pancasila
 2024
 
 1.	Abstract Class Animal
+   
    ![image](https://github.com/user-attachments/assets/6ac6dac0-ed42-42c6-b12e-ff084d3975c1)
   	Animal adalah class abstrak dengan atribut legs, konstruktor untuk menginisialisasi kaki, methods berjalan (walk()), dan methods abstrak makan (eat()) yang harus diimplementasikan oleh subclass.
 
 2.	Interface Pet
+   
    ![image](https://github.com/user-attachments/assets/01890294-ea14-4cb3-8721-9467a3f11b60)
   	Interface Pet mendefinisikan tiga methods: getName(), setName(), dan play(), yang harus diimplementasikan oleh class yang menggunakannya.
 
 3.	Spider
+   
    ![image](https://github.com/user-attachments/assets/249dc2b7-6816-4789-a452-8b73da8328a0)
   	Spider adalah subclass Animal dengan 8 kaki dan mengimplementasikan methods eat() untuk menampilkan pesan laba-laba makan serangga.
 
