@@ -5,7 +5,9 @@ LAPORAN PRAKTIKUM PEMROGRAMAN BEORIENTASI OBJEK
 
 Oleh:
 Nama	: Muhammad Zaidan Ahbab
+
 NPM	: 4523210081
+
 Class	: A
 
 Dosen:
@@ -59,5 +61,5 @@ Fakultas Teknik Universitas Pancasila
 ![image](https://github.com/user-attachments/assets/6c3111ce-b8b9-445b-8501-0adffe62a3bc)
 
 KESIMPULAN
-Class Animal adalah class abstrak dengan atribut dan methods dasar yang digunakan oleh berbagai subclass seperti Laba-laba, Anjing, Kucing, dll. Class ini mengimplementasikan methods Eat() abstrak  dengan cara yang sesuai dengan properti masing-masing hewan. Interface Pet menambahkan methods untuk mengelola nama dan aktivitas permainan yang diterapkan oleh class Anjing dan Kucing. Dengan demikian, sistem ini mendukung pewarisan hierarki  dan polimorfisme, di mana setiap class memiliki perilaku spesifik sambil mengikuti konvensi yang ditetapkan oleh superclass dan antarmukanya.
 
+Class Animal adalah class abstrak dengan atribut dan methods dasar yang digunakan oleh berbagai subclass seperti Laba-laba, Anjing, Kucing, dll. Class ini mengimplementasikan methods Eat() abstrak  dengan cara yang sesuai dengan properti masing-masing hewan. Interface Pet menambahkan methods untuk mengelola nama dan aktivitas permainan yang diterapkan oleh class Anjing dan Kucing. Dengan demikian, sistem ini mendukung pewarisan hierarki  dan polimorfisme, di mana setiap class memiliki perilaku spesifik sambil mengikuti konvensi yang ditetapkan oleh superclass dan antarmukanya.
