@@ -28,10 +28,12 @@ Fakultas Teknik Universitas Pancasila
   	Spider adalah subclass Animal dengan 8 kaki dan mengimplementasikan methods eat() untuk menampilkan pesan laba-laba makan serangga.
 
 4.	Dog
+   
    ![image](https://github.com/user-attachments/assets/98156278-410d-4769-913a-b732b914adf3)
   	Dog adalah subclass Animal yang mengimplementasikan Pet. Anjing memiliki 4 kaki, atribut nama, dan methods setName(), getName(), serta play() yang menampilkan pesan anjing bermain tangkap stik. Methods eat() menampilkan pesan anjing makan daging, dan walk() di-override untuk menunjukkan anjing berjalan dengan tuannya.
 
 5.	Cat
+   
    ![image](https://github.com/user-attachments/assets/52fd54cc-fa10-4c16-beb9-58afe15ebc3d)
   	Cat adalah subclass Animal yang mengimplementasikan Pet. Kucing memiliki 4 kaki, atribut nama, dan dua konstruktor (dengan atau tanpa nama). Methods setName(), getName(), dan play() menampilkan pesan kucing bermain bola kecil. Methods eat() menampilkan pesan kucing makan ikan.
 
