@@ -29,13 +29,21 @@ Fakultas Teknik Universitas Pancasila
  ![image](https://github.com/user-attachments/assets/6357dc19-5acb-4af8-bbeb-784f18aaedc8)
 
 5.	Implementasi
+6.	
   -.	jakaSembung memakai jubahPutih dan bersenjatakan golok
+  	
   -.	pitung memakai jubahHitam dan bersenjatakan toya
+  
   -.	Buat saling serang dan saling beri
+  
   -.	jakaSembung menyerang pitung
+  
   -.	jakaSembung menyerang pitung
+  
   -.	pitung menyerang jakaSembung
+  
   -.	jakaSembung menyerang pitung
+  
   -.	pitung menyerang JakaSembung
 ![image](https://github.com/user-attachments/assets/5eb37f61-1b15-4abb-8d9a-8e02feff30eb)
 
