@@ -29,7 +29,6 @@ Fakultas Teknik Universitas Pancasila
  ![image](https://github.com/user-attachments/assets/6357dc19-5acb-4af8-bbeb-784f18aaedc8)
 
 5.	Implementasi
-6.	
   -.	jakaSembung memakai jubahPutih dan bersenjatakan golok
   	
   -.	pitung memakai jubahHitam dan bersenjatakan toya
