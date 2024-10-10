@@ -47,4 +47,5 @@ Fakultas Teknik Universitas Pancasila
 ![image](https://github.com/user-attachments/assets/5eb37f61-1b15-4abb-8d9a-8e02feff30eb)
 
 KESIMPULAN
+
 Aplikasi ini membuat dua karakter, "Jaka Sembung" dan "Si Pitung", yang masing-masing memiliki jubah dan senjata. Karakter Jaka Sembung menggunakan Jubah Putih dan senjata Golok, sedangkan Si Pitung menggunakan Jubah Hitam dan senjata Toya. Setiap karakter diberikan atribut kekuatan dan pertahanan melalui objek jubah dan senjata mereka. Setelah itu, mereka saling menyerang menggunakan metode attack, dengan beberapa serangan yang terjadi secara bergantian. Program ini akan menampilkan informasi tentang setiap karakter dan hasil dari interaksi serangan tersebut, seperti dampak dari serangan pada masing-masing karakter.
