@@ -5,9 +5,13 @@ LAPORAN PRAKTIKUM PEMROGRAMAN BEORIENTASI OBJEK
 
 Oleh:
 Nama   : Muhammad Zaidan Ahbab
+
 NPM    : 4523210081
+
 Class  : A
+
 Dosen  : Adi Wahyu Pribadi , S.Si., M.Kom
+
 
 S1-Teknik Informatika 
 Fakultas Teknik Universitas Pancasila 
@@ -25,14 +29,14 @@ Fakultas Teknik Universitas Pancasila
  ![image](https://github.com/user-attachments/assets/6357dc19-5acb-4af8-bbeb-784f18aaedc8)
 
 5.	Implementasi
-  1.	jakaSembung memakai jubahPutih dan bersenjatakan golok
-  2.	pitung memakai jubahHitam dan bersenjatakan toya
-  3.	Buat saling serang dan saling beri
-  4.	jakaSembung menyerang pitung
-  5.	jakaSembung menyerang pitung
-  6.	pitung menyerang jakaSembung
-  7.	jakaSembung menyerang pitung
-  8.	pitung menyerang JakaSembung
+  -.	jakaSembung memakai jubahPutih dan bersenjatakan golok
+  -.	pitung memakai jubahHitam dan bersenjatakan toya
+  -.	Buat saling serang dan saling beri
+  -.	jakaSembung menyerang pitung
+  -.	jakaSembung menyerang pitung
+  -.	pitung menyerang jakaSembung
+  -.	jakaSembung menyerang pitung
+  -.	pitung menyerang JakaSembung
 ![image](https://github.com/user-attachments/assets/5eb37f61-1b15-4abb-8d9a-8e02feff30eb)
 
 KESIMPULAN
