@@ -1,5 +1,5 @@
 <h1>LAPORAN PRAKTIKUM PEMROGRAMAN BEORIENTASI OBJEK</h1>
-<h2>“Tugas 07 – Inner Class”</h2>
+“Tugas 07 – Inner Class”
 
 ![image](https://github.com/user-attachments/assets/c21f2029-a879-43af-b7a7-89491c8b92e8)
 
@@ -43,7 +43,6 @@ Program memanggil metode `main()`, kemudian memanggil metode `go()`. Nilai `x` d
 -	Nilai `x` dan `y`	: Nilai-nilai ini juga dihasilkan secara acak ketika metode `go()` dipanggil, jadi mereka akan berbeda setiap kali program dijalankan.
 -	Nilai `a` dan `b`	: Dihasilkan dari operasi aritmatika sederhana menggunakan `x` dan `y`, yaitu : `a = x + y` dan `b = x - y`
 
- 
 <h1>Latihan 3</h1>
 
 -	Kelebihan inner class terutama berkaitan dengan struktur kode yang lebih rapi, keterkaitan yang kuat dengan outer class, dan kemudahan dalam akses data dan event handling, terutama dalam pengembangan GUI.
@@ -52,6 +51,7 @@ Program memanggil metode `main()`, kemudian memanggil metode `go()`. Nilai `x` d
 
 <h1>Latihan 4</h1>
 Run semua contoh yang ada di Pertemuan hari ini (Delapan UTS)
-![image](https://github.com/user-attachments/assets/20b282f4-2a5f-41db-b12d-577e27ee6a6a)
-![image](https://github.com/user-attachments/assets/735f5153-c37d-4d87-9f44-1e274343ff5f)
 
+![image](https://github.com/user-attachments/assets/b081d601-37b7-4d6d-9ad2-cd8f1d4f4359)
+
+![image](https://github.com/user-attachments/assets/ba94da2c-1c4c-4111-b14c-408f534d0147)
